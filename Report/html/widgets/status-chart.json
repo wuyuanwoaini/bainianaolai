@@ -1,0 +1,11 @@
+[ {
+  "uid" : "6bd544d2490a3171",
+  "name" : "TestLogin.test_login[18610453007-123456-itheima-None]",
+  "time" : {
+    "start" : 1541154858669,
+    "stop" : 1541154921462,
+    "duration" : 62793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

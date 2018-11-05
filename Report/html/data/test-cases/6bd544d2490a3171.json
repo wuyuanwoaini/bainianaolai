@@ -1,0 +1,247 @@
+{
+  "uid" : "6bd544d2490a3171",
+  "name" : "TestLogin.test_login[18610453007-123456-itheima-None]",
+  "fullName" : "test_login.TestLogin.test_login[18610453007-123456-itheima-None]",
+  "historyId" : "a17d2d842667f3d078bdf6bd5a8ae7d1",
+  "time" : {
+    "start" : 1541154858669,
+    "stop" : 1541154921462,
+    "duration" : 62793
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "开始执行初始化函数",
+      "time" : {
+        "start" : 1541154858672,
+        "stop" : 1541154887854,
+        "duration" : 29182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "53b06beb179a0eee",
+        "name" : "步骤描述：",
+        "source" : "53b06beb179a0eee.txt",
+        "type" : "text/plain",
+        "size" : 24
+      }, {
+        "uid" : "6c627001865d0c53",
+        "name" : "步骤描述：",
+        "source" : "6c627001865d0c53.txt",
+        "type" : "text/plain",
+        "size" : 26
+      }, {
+        "uid" : "30d8f50ecf34755c",
+        "name" : "步骤描述：",
+        "source" : "30d8f50ecf34755c.txt",
+        "type" : "text/plain",
+        "size" : 10
+      }, {
+        "uid" : "b2f55d3f726ca06",
+        "name" : "步骤描述：",
+        "source" : "b2f55d3f726ca06.txt",
+        "type" : "text/plain",
+        "size" : 27
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 4,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "开始执行登录脚本...",
+      "time" : {
+        "start" : 1541154887855,
+        "stop" : 1541154921462,
+        "duration" : 33607
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名：",
+        "time" : {
+          "start" : 1541154887855,
+          "stop" : 1541154890339,
+          "duration" : 2484
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "输入密码：",
+        "time" : {
+          "start" : 1541154890339,
+          "stop" : 1541154893320,
+          "duration" : 2981
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "点击登录：",
+        "time" : {
+          "start" : 1541154893320,
+          "stop" : 1541154893875,
+          "duration" : 555
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "点击设置：",
+        "time" : {
+          "start" : 1541154899257,
+          "stop" : 1541154899627,
+          "duration" : 370
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "滑动 消息推送-》修改密码：",
+        "time" : {
+          "start" : 1541154899627,
+          "stop" : 1541154916288,
+          "duration" : 16661
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "点击退出：",
+        "time" : {
+          "start" : 1541154916288,
+          "stop" : 1541154916882,
+          "duration" : 594
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "确认退出",
+        "time" : {
+          "start" : 1541154916882,
+          "stop" : 1541154918073,
+          "duration" : 1191
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "786756717f631a56",
+        "name" : "开始判断是否登录成功",
+        "source" : "786756717f631a56.txt",
+        "type" : "text/plain",
+        "size" : 1
+      }, {
+        "uid" : "37b01f66807c5d49",
+        "name" : "登录成功！",
+        "source" : "37b01f66807c5d49.txt",
+        "type" : "text/plain",
+        "size" : 1
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 7,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b6ac4f6376b15489",
+      "name" : "步骤描述：",
+      "source" : "b6ac4f6376b15489.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "hasContent" : true,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MS-20180906QJYH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4428-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[18610453007-123456-itheima-None]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bd544d2490a3171.json",
+  "parameterValues" : [ ]
+}

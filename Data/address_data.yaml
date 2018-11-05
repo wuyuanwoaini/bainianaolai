@@ -1,0 +1,16 @@
+add_address:
+  name: "李四"
+  phone: "18611110000"
+  sheng: "河南"
+  shi: "郑州"
+  qu: "二七"
+  addressinfo: "二七纪念塔11层201"
+  postcode: "472500"
+update_address:
+  name: "赵六"
+  phone: "18622220000"
+  sheng: "广东"
+  shi: "深圳"
+  qu: "宝安"
+  addressinfo: "留仙二路中粮商务公园13层"
+  postcode: "472501"

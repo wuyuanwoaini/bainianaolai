@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_login",
+    "children" : [ {
+      "name" : "TestLogin.test_login[18610453007-123456-itheima-None]",
+      "uid" : "6bd544d2490a3171",
+      "parentUid" : "03f1661ca992eb99488d3d9f2a012d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541154858669,
+        "stop" : 1541154921462,
+        "duration" : 62793
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "03f1661ca992eb99488d3d9f2a012d80"
+  } ]
+}
